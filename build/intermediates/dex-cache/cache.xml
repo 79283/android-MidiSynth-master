@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Development\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-d4601b247655aafa4780a5f6a251a565caf6676c.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\pre-dexed\debug\classes-b7f39a6b4c63ebdf63111846ff4087038e3da669.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\pre-dexed\debug\classes-5b2e799a023a92ad120b3f54b99b0d84760c272e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-343ddcd2cbd5862bee07ab4a95f5fedf5d110831.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\pre-dexed\debug\classes-94bac84e569d8f8958943b3fc4e2083e835076b2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="E:\AndroidStudio\BlogPreview\android-MidiSynth-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-5df89af6efe2cf7a1e1251aebee590a3b4830b9e.jar" />
+    </item>
+
+</items>
